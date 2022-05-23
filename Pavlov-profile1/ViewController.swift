@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     }
     @IBAction func userStatusBottom(_ sender: Any) {
     }
+    
     @IBAction func profileEditBottom(_ sender: Any) {
     }
     @IBAction func profileHistoryBottom(_ sender: Any) {
